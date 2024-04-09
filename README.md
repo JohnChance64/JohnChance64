@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+<a href="https://github.com/JohnChance64/osticket-prereqs">osTicket (Help Desk Ticketing System)</a>
 
 
 <h2>🤳Connect with me:</h2>
